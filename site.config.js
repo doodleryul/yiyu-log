@@ -4,7 +4,7 @@ const CONFIG = {
     name: "yiyu",
     image: "/avatar.png", // If you want to create your own notion avatar, check out https://notion-avatar.vercel.app
     role: "machine learning engineer",
-    bio: "I develop everything using node.",
+    bio: "Building a life as an AI engineer",
     email: "rimiiii.u@gmail.com",
     linkedin: "doodleryul",
     github: "doodleryul",
@@ -18,8 +18,8 @@ const CONFIG = {
   ],
   // blog setting (required)
   blog: {
-    title: "yiyu-log",
-    description: "welcome to morethan-log!",
+    title: "이유있는 이유로그",
+    description: "welcome to yiyu-log!",
   },
 
   // CONFIG configration (required)
@@ -27,6 +27,9 @@ const CONFIG = {
   since: 2023, // If leave this empty, current year will be used.
   lang: "en-US", // ['en-US', 'zh-CN', 'zh-HK', 'zh-TW', 'ja-JP', 'es-ES', 'ko-KR']
   ogImageGenerateURL: "https://og-image-korean.vercel.app", // The link to generate OG image, don't end with a slash
+  seo: {
+    keywords: ["블로그", "개발자", "노션", "회고", "독서", "AI"],
+  },
 
   // notion configuration (required)
   notionConfig: {
