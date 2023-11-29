@@ -1,16 +1,202 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:news="http://www.google.com/schemas/sitemap-news/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:mobile="http://www.google.com/schemas/sitemap-mobile/1.0" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
-<url><loc>https://morethan-log.vercel.app</loc><lastmod>2023-08-26T04:41:48.045Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
-<url><loc>https://morethan-log.vercel.app/project-feedback</loc><lastmod>2023-08-26T04:41:48.045Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
-<url><loc>https://morethan-log.vercel.app/2022-end-2023-start</loc><lastmod>2023-08-26T04:41:48.045Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
-<url><loc>https://morethan-log.vercel.app/how-to-generate-dynamic-og-image</loc><lastmod>2023-08-26T04:41:48.045Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
-<url><loc>https://morethan-log.vercel.app/zext-project-review</loc><lastmod>2023-08-26T04:41:48.045Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
-<url><loc>https://morethan-log.vercel.app/hot-to-make-sitemap-in-next-js</loc><lastmod>2023-08-26T04:41:48.045Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
-<url><loc>https://morethan-log.vercel.app/apollo-gettings-started-mutate</loc><lastmod>2023-08-26T04:41:48.045Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
-<url><loc>https://morethan-log.vercel.app/apollo-gettings-started-query</loc><lastmod>2023-08-26T04:41:48.045Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
-<url><loc>https://morethan-log.vercel.app/resume-private</loc><lastmod>2023-08-26T04:41:48.045Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
-<url><loc>https://morethan-log.vercel.app/about-graphql</loc><lastmod>2023-08-26T04:41:48.045Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
-<url><loc>https://morethan-log.vercel.app/how-to-apply-ga-to-next.js</loc><lastmod>2023-08-26T04:41:48.045Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
-<url><loc>https://morethan-log.vercel.app/about-opensource-license</loc><lastmod>2023-08-26T04:41:48.045Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
-<url><loc>https://morethan-log.vercel.app/about</loc><lastmod>2023-08-26T04:41:48.045Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
+<urlset
+      xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+<!-- created with Free Online Sitemap Generator www.xml-sitemaps.com -->
+
+
+<url>
+  <loc>https://www.yiyu-log.com/</loc>
+  <lastmod>2023-11-29T13:39:05+00:00</lastmod>
+  <priority>1.00</priority>
+</url>
+<url>
+  <loc>https://www.yiyu-log.com/about</loc>
+  <lastmod>2023-11-29T13:39:05+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.yiyu-log.com/project-leader</loc>
+  <lastmod>2023-11-29T13:39:05+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.yiyu-log.com/zerodce</loc>
+  <lastmod>2023-11-29T13:39:05+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.yiyu-log.com/datadog</loc>
+  <lastmod>2023-11-29T13:39:05+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.yiyu-log.com/docker-cache</loc>
+  <lastmod>2023-11-29T13:39:05+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.yiyu-log.com/minority-design</loc>
+  <lastmod>2023-11-29T13:39:05+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.yiyu-log.com/ray</loc>
+  <lastmod>2023-11-29T13:39:05+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.yiyu-log.com/fixmatch</loc>
+  <lastmod>2023-11-29T13:39:05+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.yiyu-log.com/gcp-image</loc>
+  <lastmod>2023-11-29T13:39:05+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.yiyu-log.com/dataframe</loc>
+  <lastmod>2023-11-29T13:39:05+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.yiyu-log.com/toss</loc>
+  <lastmod>2023-11-29T13:39:05+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.yiyu-log.com/best-model</loc>
+  <lastmod>2023-11-29T13:39:05+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.yiyu-log.com/vae-2</loc>
+  <lastmod>2023-11-29T13:39:05+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.yiyu-log.com/process-economy</loc>
+  <lastmod>2023-11-29T13:39:05+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.yiyu-log.com/linchpin</loc>
+  <lastmod>2023-11-29T13:39:05+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.yiyu-log.com/docker</loc>
+  <lastmod>2023-11-29T13:39:05+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.yiyu-log.com/relgan</loc>
+  <lastmod>2023-11-29T13:39:05+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.yiyu-log.com/vae-1</loc>
+  <lastmod>2023-11-29T13:39:05+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.yiyu-log.com/git-upstream</loc>
+  <lastmod>2023-11-29T13:39:05+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.yiyu-log.com/lier</loc>
+  <lastmod>2023-11-29T13:39:05+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.yiyu-log.com/2022-review</loc>
+  <lastmod>2023-11-29T13:39:05+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.yiyu-log.com/olloyday</loc>
+  <lastmod>2023-11-29T13:39:05+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.yiyu-log.com/git-pull</loc>
+  <lastmod>2023-11-29T13:39:05+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.yiyu-log.com/vscode-pythonpath</loc>
+  <lastmod>2023-11-29T13:39:05+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.yiyu-log.com/kl-divergence</loc>
+  <lastmod>2023-11-29T13:39:05+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.yiyu-log.com/programmer</loc>
+  <lastmod>2023-11-29T13:39:05+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.yiyu-log.com/jupyter-autoreload</loc>
+  <lastmod>2023-11-29T13:39:05+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.yiyu-log.com/4hours</loc>
+  <lastmod>2023-11-29T13:39:05+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.yiyu-log.com/tencho-pytorch</loc>
+  <lastmod>2023-11-29T13:39:05+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.yiyu-log.com/python-refactoring</loc>
+  <lastmod>2023-11-29T13:39:05+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.yiyu-log.com/multiprocessing</loc>
+  <lastmod>2023-11-29T13:39:05+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.yiyu-log.com/breaking-routine</loc>
+  <lastmod>2023-11-29T13:39:05+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.yiyu-log.com/mfp</loc>
+  <lastmod>2023-11-29T13:39:05+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.yiyu-log.com/orthogonal-matrix</loc>
+  <lastmod>2023-11-29T13:39:05+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.yiyu-log.com/mimic4</loc>
+  <lastmod>2023-11-29T13:39:05+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.yiyu-log.com/midnight-library</loc>
+  <lastmod>2023-11-29T13:39:05+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.yiyu-log.com/tmux</loc>
+  <lastmod>2023-11-29T13:39:05+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+
+
 </urlset>
